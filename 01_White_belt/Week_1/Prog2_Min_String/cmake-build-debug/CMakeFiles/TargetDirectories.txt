@@ -1,0 +1,3 @@
+C:/Users/Loathem/CLionProjects/Prog2_Min_String/cmake-build-debug/CMakeFiles/Prog2_Min_String.dir
+C:/Users/Loathem/CLionProjects/Prog2_Min_String/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Loathem/CLionProjects/Prog2_Min_String/cmake-build-debug/CMakeFiles/rebuild_cache.dir

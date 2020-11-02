@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Loathem/CLionProjects/03_Red_belt_begin_2020-08-15/Week_1/Practice/tenmplate_class/main.cpp
+iostream
+-
+vector
+-
+set
+-
+queue
+-
+

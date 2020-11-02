@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Loathem/CLionProjects/02_Yellow_belt_begin_2020-07-07/Week_1/Prog_06_Sqr_All/main.cpp
+iostream
+-
+vector
+-
+map
+-
+utility
+-
+

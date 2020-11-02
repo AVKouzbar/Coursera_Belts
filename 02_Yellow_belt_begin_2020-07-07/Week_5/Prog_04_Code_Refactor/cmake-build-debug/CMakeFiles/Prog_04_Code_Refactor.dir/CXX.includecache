@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Loathem/CLionProjects/02_Yellow_belt_begin_2020-07-07/Week_5/Prog_04_Code_Refactor/main.cpp
+test.cpp
+C:/Users/Loathem/CLionProjects/02_Yellow_belt_begin_2020-07-07/Week_5/Prog_04_Code_Refactor/test.cpp
+
+C:/Users/Loathem/CLionProjects/02_Yellow_belt_begin_2020-07-07/Week_5/Prog_04_Code_Refactor/test.cpp
+iostream
+-
+string
+-
+vector
+-
+

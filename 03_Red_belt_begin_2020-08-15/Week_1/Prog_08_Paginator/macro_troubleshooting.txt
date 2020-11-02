@@ -1,0 +1,7 @@
+#define ASSERT_EQUAL(x, y) {                          \
+  ostringstream __assert_equal_private_os;            \
+  __assert_equal_private_os                           \
+    << #x << " != " << #y << ", "                     \
+    << __FILE__ << ":" << __LINE__;                   \
+  AssertEqual(x, y, __assert_equal_private_os.str()); \
+}

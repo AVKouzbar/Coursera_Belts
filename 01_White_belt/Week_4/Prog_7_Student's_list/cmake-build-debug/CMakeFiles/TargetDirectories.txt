@@ -1,0 +1,3 @@
+C:/Users/Loathem/CLionProjects/Week_4/Prog_7_Student's_list/cmake-build-debug/CMakeFiles/Prog_7_Student_s_list.dir
+C:/Users/Loathem/CLionProjects/Week_4/Prog_7_Student's_list/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Loathem/CLionProjects/Week_4/Prog_7_Student's_list/cmake-build-debug/CMakeFiles/rebuild_cache.dir

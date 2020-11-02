@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Loathem/CLionProjects/03_Red_belt_begin_2020-08-15/Week_1/Practice/Macros__FILE__and__LINE__/main.cpp
+algorithm
+-
+iostream
+-
+map
+-
+set
+-
+sstream
+-
+stdexcept
+-
+sstream
+-
+vector
+-
+numeric
+-
+string
+-
+

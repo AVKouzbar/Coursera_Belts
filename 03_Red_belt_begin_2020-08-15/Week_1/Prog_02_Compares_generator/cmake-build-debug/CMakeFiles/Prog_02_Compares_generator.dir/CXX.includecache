@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Loathem/CLionProjects/03_Red_belt_begin_2020-08-15/Week_1/Prog_02_Compares_generator/airline_ticket.h
+string
+-
+
+C:/Users/Loathem/CLionProjects/03_Red_belt_begin_2020-08-15/Week_1/Prog_02_Compares_generator/sort_by.cpp
+airline_ticket.h
+C:/Users/Loathem/CLionProjects/03_Red_belt_begin_2020-08-15/Week_1/Prog_02_Compares_generator/airline_ticket.h
+test_runner.h
+C:/Users/Loathem/CLionProjects/03_Red_belt_begin_2020-08-15/Week_1/Prog_02_Compares_generator/test_runner.h
+algorithm
+-
+numeric
+-
+iomanip
+-
+
+C:/Users/Loathem/CLionProjects/03_Red_belt_begin_2020-08-15/Week_1/Prog_02_Compares_generator/test_runner.h
+sstream
+-
+stdexcept
+-
+iostream
+-
+map
+-
+set
+-
+string
+-
+vector
+-
+

@@ -1,0 +1,3 @@
+C:/Users/Loathem/CLionProjects/Week_3/Prog_6_class_ReversibleString/cmake-build-debug/CMakeFiles/Prog_6_class_ReversibleString.dir
+C:/Users/Loathem/CLionProjects/Week_3/Prog_6_class_ReversibleString/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Loathem/CLionProjects/Week_3/Prog_6_class_ReversibleString/cmake-build-debug/CMakeFiles/rebuild_cache.dir

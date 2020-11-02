@@ -1,0 +1,3 @@
+C:/Users/Loathem/CLionProjects/Prog_10_Dec_to_Bin/cmake-build-debug/CMakeFiles/Prog_10_Dec_to_Bin.dir
+C:/Users/Loathem/CLionProjects/Prog_10_Dec_to_Bin/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Loathem/CLionProjects/Prog_10_Dec_to_Bin/cmake-build-debug/CMakeFiles/rebuild_cache.dir

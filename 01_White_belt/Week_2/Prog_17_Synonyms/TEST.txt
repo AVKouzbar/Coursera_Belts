@@ -1,0 +1,13 @@
+ADD a b
+COUNT a
+COUNT b
+
+
+
+TEST
+7
+ADD b a
+ADD c a
+ADD d a
+ADD a d
+COUNT d

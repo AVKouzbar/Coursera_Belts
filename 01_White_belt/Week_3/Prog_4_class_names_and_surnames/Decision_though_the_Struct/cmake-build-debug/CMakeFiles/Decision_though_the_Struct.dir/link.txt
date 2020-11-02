@@ -1,0 +1,3 @@
+"C:\dev\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\Decision_though_the_Struct.dir/objects.a
+C:\dev\mingw-w64\mingw64\bin\ar.exe cr CMakeFiles\Decision_though_the_Struct.dir/objects.a @CMakeFiles\Decision_though_the_Struct.dir\objects1.rsp
+C:\dev\mingw-w64\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Decision_though_the_Struct.dir/objects.a -Wl,--no-whole-archive  -o Decision_though_the_Struct.exe -Wl,--out-implib,libDecision_though_the_Struct.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Decision_though_the_Struct.dir\linklibs.rsp

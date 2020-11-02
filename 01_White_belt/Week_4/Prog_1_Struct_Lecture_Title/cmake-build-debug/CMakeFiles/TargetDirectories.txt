@@ -1,0 +1,3 @@
+C:/Users/Loathem/CLionProjects/Week_4/Prog_1_Struct_Lecture_Title/cmake-build-debug/CMakeFiles/Prog_1_Struct_Lecture_Title.dir
+C:/Users/Loathem/CLionProjects/Week_4/Prog_1_Struct_Lecture_Title/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Loathem/CLionProjects/Week_4/Prog_1_Struct_Lecture_Title/cmake-build-debug/CMakeFiles/rebuild_cache.dir

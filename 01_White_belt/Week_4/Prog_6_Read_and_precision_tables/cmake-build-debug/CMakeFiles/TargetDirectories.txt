@@ -1,0 +1,3 @@
+C:/Users/Loathem/CLionProjects/Week_4/Prog_6_Read_and_precision_tables/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Loathem/CLionProjects/Week_4/Prog_6_Read_and_precision_tables/cmake-build-debug/CMakeFiles/Prog_6_Read_and_precision_tables.dir
+C:/Users/Loathem/CLionProjects/Week_4/Prog_6_Read_and_precision_tables/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Loathem/CLionProjects/02_Yellow_belt_begin_2020-07-07/Week_4/Prog_03_Split_into_words/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+

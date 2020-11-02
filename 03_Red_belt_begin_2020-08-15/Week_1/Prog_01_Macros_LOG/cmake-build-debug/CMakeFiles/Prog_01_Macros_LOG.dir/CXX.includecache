@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Loathem/CLionProjects/03_Red_belt_begin_2020-08-15/Week_1/Prog_01_Macros_LOG/logger.cpp
+test_runner.h
+C:/Users/Loathem/CLionProjects/03_Red_belt_begin_2020-08-15/Week_1/Prog_01_Macros_LOG/test_runner.h
+sstream
+-
+string
+-
+
+C:/Users/Loathem/CLionProjects/03_Red_belt_begin_2020-08-15/Week_1/Prog_01_Macros_LOG/test_runner.h
+sstream
+-
+stdexcept
+-
+iostream
+-
+map
+-
+set
+-
+string
+-
+vector
+-
+

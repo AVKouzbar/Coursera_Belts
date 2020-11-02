@@ -1,0 +1,3 @@
+C:/Users/Loathem/CLionProjects/Week_4/Prog_5_Output_with_precision/cmake-build-debug/CMakeFiles/Prog_5_Output_with_precision.dir
+C:/Users/Loathem/CLionProjects/Week_4/Prog_5_Output_with_precision/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Loathem/CLionProjects/Week_4/Prog_5_Output_with_precision/cmake-build-debug/CMakeFiles/rebuild_cache.dir

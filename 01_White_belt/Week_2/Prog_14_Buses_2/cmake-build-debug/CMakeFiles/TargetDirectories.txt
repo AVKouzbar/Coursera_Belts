@@ -1,0 +1,3 @@
+C:/Users/Loathem/CLionProjects/Week_2/Prog_14_Buses_2/cmake-build-debug/CMakeFiles/Prog_14_Buses_2.dir
+C:/Users/Loathem/CLionProjects/Week_2/Prog_14_Buses_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Loathem/CLionProjects/Week_2/Prog_14_Buses_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

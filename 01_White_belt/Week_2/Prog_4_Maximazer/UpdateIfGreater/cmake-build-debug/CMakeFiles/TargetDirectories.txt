@@ -1,0 +1,3 @@
+C:/Users/Loathem/CLionProjects/Week_2/Prog_4_Maximazer/UpdateIfGreater/cmake-build-debug/CMakeFiles/UpdateIfGreater.dir
+C:/Users/Loathem/CLionProjects/Week_2/Prog_4_Maximazer/UpdateIfGreater/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Loathem/CLionProjects/Week_2/Prog_4_Maximazer/UpdateIfGreater/cmake-build-debug/CMakeFiles/rebuild_cache.dir

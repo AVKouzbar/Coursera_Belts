@@ -1,0 +1,3 @@
+C:/Users/Loathem/CLionProjects/Week_2/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Loathem/CLionProjects/Week_2/untitled/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/Loathem/CLionProjects/Week_2/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir

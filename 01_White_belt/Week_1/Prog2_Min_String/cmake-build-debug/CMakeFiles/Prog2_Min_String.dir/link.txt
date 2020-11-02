@@ -1,0 +1,3 @@
+"C:\dev\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\Prog2_Min_String.dir/objects.a
+C:\dev\mingw-w64\mingw64\bin\ar.exe cr CMakeFiles\Prog2_Min_String.dir/objects.a @CMakeFiles\Prog2_Min_String.dir\objects1.rsp
+C:\dev\mingw-w64\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Prog2_Min_String.dir/objects.a -Wl,--no-whole-archive  -o Prog2_Min_String.exe -Wl,--out-implib,libProg2_Min_String.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Prog2_Min_String.dir\linklibs.rsp

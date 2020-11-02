@@ -1,0 +1,3 @@
+C:/Users/Loathem/CLionProjects/02_Yellow_belt_begin_2020-07-07/Week_1/Prog_01_Matrix_sum/cmake-build-debug/CMakeFiles/Prog_01_Matrix_sum.dir
+C:/Users/Loathem/CLionProjects/02_Yellow_belt_begin_2020-07-07/Week_1/Prog_01_Matrix_sum/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Loathem/CLionProjects/02_Yellow_belt_begin_2020-07-07/Week_1/Prog_01_Matrix_sum/cmake-build-debug/CMakeFiles/rebuild_cache.dir

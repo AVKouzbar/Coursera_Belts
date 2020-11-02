@@ -1,0 +1,42 @@
+Add 2017-11-21 Tuesday
+Add 2017-11-20 Monday
+Add 2017-11-21 Weekly meeting
+Print
+Del date > 2017-11-20
+Print
+
+
+Add 2017-11-21 Tuesday
+Add 2017-11-20 Monday
+Add 2017-11-21 Weekly meeting
+Print
+Find event != "Weekly meeting"
+Del date > 2017-11-20
+Print
+
+Add 2017-11-21 Tuesday
+Add 2017-11-20 Monday
+Add 2017-11-21 Weekly meeting
+Print
+Find event != "Weekly meeting"
+Last 2017-11-30
+Del date > 2017-11-20
+Last 2017-11-30
+Last 2017-11-01
+
+Add: 10 mcs
+Add: 12 mcs
+Add: 13 mcs
+2017-11-20 Monday
+2017-11-21 Tuesday
+2017-11-21 Weekly meeting
+FindIf: 21 mcs
+2017-11-20 Monday
+2017-11-21 Tuesday
+Found 2 entries
+Last: 4 mcs
+2017-11-21 Weekly meeting
+RemoveIf: 9 mcs
+Removed 2 entries
+Last: 3 mcs
+2017-11-20 Monday

@@ -1,0 +1,4 @@
+"C:\dev\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\Loathem\CLionProjects\03_Red_belt_begin_2020-08-15\Week_1\Prog_02_Compares_generator
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Loathem/CLionProjects/03_Red_belt_begin_2020-08-15/Week_1/Prog_02_Compares_generator/cmake-build-debug

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+project(Prog_2_Unit_test_GetDistinctRealRootCount)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Prog_2_Unit_test_GetDistinctRealRootCount main.cpp)

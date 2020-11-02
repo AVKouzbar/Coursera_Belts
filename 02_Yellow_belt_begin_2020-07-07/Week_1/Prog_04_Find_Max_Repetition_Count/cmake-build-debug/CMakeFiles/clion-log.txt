@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\Loathem\CLionProjects\02_Yellow_belt_begin_2020-07-07\Week_1\Prog_04_Find_Max_Repetition_Count
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Loathem/CLionProjects/02_Yellow_belt_begin_2020-07-07/Week_1/Prog_04_Find_Max_Repetition_Count/cmake-build-debug
